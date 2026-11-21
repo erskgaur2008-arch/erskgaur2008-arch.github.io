@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ashianapublicschool.attendance.student",
+      "sha256_cert_fingerprints": [
+        "C0:91:6B:95:35:C0:DC:17:5E:CA:9B:23:26:F5:1B:EE:71:A0:59:30:09:52:05:84:19:40:17:DD:6C:BD:69:A9"
+      ]
+    }
+  }
+]
