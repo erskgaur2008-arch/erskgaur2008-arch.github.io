@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.ashianapublicschool.attendance.student",
       "sha256_cert_fingerprints": [
-        "C0:91:6B:95:35:C0:DC:17:5E:CA:9B:23:26:F5:1B:EE:71:A0:59:30:09:52:05:84:19:40:17:DD:6C:BD:69:A9"
+        "C0:91:6B:95:35:C0:DC:17:5E:CA:9B:23:26:F5:1B:EE:71:A0:59:30:09:52:05:84:19:40:17:DD:6C:BD:69:A9",
+        "68:27:F1:4F:27:B6:FE:C4:F3:F6:E0:56:69:1D:59:C1:31:DC:CB:98:FB:4A:F7:65:83:6A:FB:F6:79:32:61:41"
       ]
     }
   }
